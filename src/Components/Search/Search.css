@@ -1,0 +1,10 @@
+.searchResult {
+    background: white;
+    padding: 16px;
+    position: absolute;
+    width: 500px;
+    border-radius: 16px;
+    margin-top: 16px;
+    box-shadow: 0px 0px 20px black;
+}
+

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Synthesia",
+        "generate": "Video"
+    },
+    {
+        "id": 2,
+        "name": "Codeium",
+        "generate": "Code"
+    },
+    {
+        "id": 3,
+        "name": "MidJourney",
+        "generate": "Images"
+    },
+    {
+        "id": 4,
+        "name": "chatGPT",
+        "generate": "text"
+    },
+    {
+        "id": 5,
+        "name": "Lovo AI",
+        "generate": "Voice"
+    }
+]
