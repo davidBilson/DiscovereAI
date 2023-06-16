@@ -12,12 +12,12 @@
     {
         "id": 3,
         "name": "MidJourney",
-        "generate": "Images"
+        "generate": "Image"
     },
     {
         "id": 4,
         "name": "chatGPT",
-        "generate": "text"
+        "generate": "Text"
     },
     {
         "id": 5,
