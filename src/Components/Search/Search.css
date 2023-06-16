@@ -1,10 +1,23 @@
 .searchResult {
-    background: white;
+    border: 1px solid var(--color4);
+    color: var(--color3);
+    background-color: rgba(15, 15, 15, .9);
     padding: 16px;
     position: absolute;
     width: 500px;
     border-radius: 16px;
     margin-top: 16px;
     box-shadow: 0px 0px 20px black;
+    flex-direction: column;
+    gap: 16px;
 }
 
+.displayComponent {
+    background: red;
+    position: absolute;
+    top: 0;
+}
+
+.seachResult {
+    cursor: pointer;
+}
