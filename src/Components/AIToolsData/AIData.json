@@ -2,26 +2,193 @@
     {
         "id": 1,
         "name": "Synthesia",
-        "generate": "Video"
+        "generate": "Video",
+        "category" : "Video"
     },
     {
         "id": 2,
         "name": "Codeium",
-        "generate": "Code"
+        "generate": "Code",
+        "category": "Code"
     },
     {
         "id": 3,
         "name": "MidJourney",
-        "generate": "Image"
+        "generate": "Image",
+        "category": "Image"
     },
     {
         "id": 4,
         "name": "chatGPT",
-        "generate": "Text"
+        "generate": "Text",
+        "category": "Text"
     },
     {
         "id": 5,
         "name": "Lovo AI",
-        "generate": "Voice"
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 6,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 7,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 8,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 9,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 10,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 11,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 12,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 13,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 14,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 15,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 16,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 17,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 18,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 19,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 20,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 21,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 22,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 23,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 24,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 25,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 26,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 27,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 28,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 29,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 30,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 31,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
+    },
+    {
+        "id": 32,
+        "name": "Lovo AI",
+        "generate": "Voice",
+        "category": "Voice"
     }
 ]
